@@ -1,0 +1,15 @@
+﻿Game Objectives
+
+The purpose of the game is to introduce those new to web accessibility to potential barriers on the Web that may prevent some people from accessing content. You will experience the challenges of navigating the Web that some people with disabilities experience.
+
+The learning objectives of this game are:
+
+1. Learn how images, and other visuals, are made accessible
+
+2. Understand how web forms are made accessible
+
+3. Experience how timed elements can create barriers
+
+4. Discover why mouse-only features are inaccessible to many people
+
+Press escape key to dismiss this dialog.

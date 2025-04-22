@@ -1,0 +1,23 @@
+﻿How To Play
+
+Navigate the game maze using your keyboard:
+
+W - Walk Forward,
+S - Step Back,
+A - Turn Left,
+D - Turn Right,
+E - Exit Game,
+H - Help (this dialog),
+M - Map Toggle,
+Q - Quiet Background Music Toggle,
+L - Accessibility Details,
+
+Also use the arrow, tab, enter, and spacebar keys.
+
+Move your mouse pointer to look around.
+
+Bump into things to interact with them.
+
+Use the "esc" key to dismiss dialogs like this one. Or, while in the maze, pressing the "S" key to step back will close a dialog.
+
+When exiting the game, the current state is saved. Use Resume Saved in the game menu to continue.

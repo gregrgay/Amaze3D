@@ -1,0 +1,109 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - bluegem
+  - Blue Gem
+  - crosshair
+  - wall
+  - Collectable
+  - book
+  - openDiary
+  - yellowgem
+  - pinkgem
+  - locked chest
+  - Fire
+  - chestkey
+  - key
+  - ui_inventory
+  - gem_blue
+  - gem_yellow
+  - gem_pink
+  - open_chest
+  - cats_photo
+  - cat_small
+  - cat_large
+  - door
+  - exit
+  - lesson
+  - Inventory
+  - cracked_wall
+  - panel_small
+  - exit2
+  - entrance2
+  - entrance1
+  - entrance3
+  - Lever
+  - nitrogen_large
+  - nitrogen_spray
+  - exit1
+  - frozen
+  - exit3
+  - closedexit
+  - balloon
+  - exit4
+  - balloonDoor
+  - balloonDoorOpen
+  - entrance4
+  - entrance5
+  - professor
+  - exit5
+  - howto
+  - newgame
+  - howtodialog
+  - a11ydialog
+  - a11ybutton
+  - a11ytoggle
+  - rateslider
+  - a11ycheckmark
+  - a11ycheckbox
+  - slider1
+  - objectivesdialog
+  - resume_button
+  - cat_panel
+  - door_closed
+  - button_pad
+  - button_pad2
+  - plate_image
+  - cat_panel_text
+  - chest_open
+  - door_open
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Ceiling
+  - Water
+  - UI
+  - Floor
+  - Accessible3dCameraIgnore
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

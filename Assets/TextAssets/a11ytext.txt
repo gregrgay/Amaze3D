@@ -1,0 +1,23 @@
+﻿Amaze3D Accessibility
+
+Amaze3D is designed to be accessible for blind players. Uncheck Accessibility Mode to disable speech.
+
+Features:
+
+Bump the entrance door of a level to announce objects found on that level.
+
+While in the maze press the letter "I" to list the objects in view.
+
+Press the Tab key to move focus between objects in view.
+
+Use a mouse pointer, or "A" and "D" keys, to turn left and right.
+
+When objects are announced, use the "W" key to walk toward the object.
+
+While announcing, speech is stopped by clicking in the game window.
+
+See How To Play for additional details, press "H".
+
+To open this dialog, press "L".
+
+Press the escape key to dismiss this dialog.
